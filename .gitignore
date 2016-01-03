@@ -10,3 +10,9 @@
 /vendor/
 /bin/
 /composer.phar
+.vagrant
+.idea
+.DS_store
+.apache2_vhosts/000-default.conf
+.apache2_vhosts/default
+.apache2_vhosts/default-ssl
