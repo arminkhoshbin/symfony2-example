@@ -25,7 +25,7 @@ Vagrant.configure(2) do |config|
 
   # Forwarding ports
   # ----------------
-  config.vm.network :forwarded_port, guest: 80, host: 8000
+  config.vm.network :forwarded_port, guest: 8000, host: 8000
 
   # Running bootstrap
     # -----------------
